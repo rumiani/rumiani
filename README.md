@@ -9,6 +9,8 @@
 
 ![myImage](https://github.com/rumiani/rumiani/blob/main/earth.png)
 
+![javascript](https://icons8.com/icon/tGvHBPJaKqEd/javascript)
+
 
 <!--
 **rumiani/rumiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
