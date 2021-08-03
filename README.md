@@ -9,7 +9,7 @@
 
 ![myImage](https://github.com/rumiani/rumiani/blob/main/earth.png)
 
-![javascript](https://icons8.com/icon/tGvHBPJaKqEd/javascript)
+![javascript](<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>)
 
 
 <!--
