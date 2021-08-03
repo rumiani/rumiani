@@ -1,10 +1,12 @@
 ### Hi there 👋
 # I'm Maziar Rumiani
 
-
-
+## I'm a passionate Front End web developer.
 
 ## [Here's my portfolio website.](https://rumiani.ir/)
+
+There's a contact form in my website, feel free to get in touch.
+
 
 <!--
 **rumiani/rumiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
