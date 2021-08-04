@@ -7,7 +7,7 @@
 
 # There's a contact form in my website, feel free to get in touch.
 
-![myImage](https://github.com/rumiani/rumiani/blob/main/earth.png)
+![myImage](https://github.com/rumiani/rumiani/blob/main/pic-2.png)
 
 ![react](https://img.icons8.com/ios/50/000000/react-native--v2.png)
 ![javascript](https://img.icons8.com/color/50/000000/javascript--v2.png)
