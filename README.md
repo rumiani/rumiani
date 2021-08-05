@@ -17,7 +17,7 @@
 ![html](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![wordpress](https://img.icons8.com/windows/32/000000/wordpress-simple.png)
 
-```html
+
 <h2>Contact Me</h2>
 
 <form   className="form-class"
@@ -50,7 +50,6 @@
             <button type="submit" id="button" className="btn btn-primary btn-lg btn-block">Send Message</button>
         </div>
     </form>
-```
 <!--
 **rumiani/rumiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
