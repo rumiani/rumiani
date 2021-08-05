@@ -5,7 +5,7 @@
 
 ## [Here's my portfolio website.](https://rumiani.ir/)
 
-# Feel free to get in touch: [Here's my portfolio website.](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=maziar9170@gmail.com)
+# Feel free to get in touch: [Contact Me](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=maziar9170@gmail.com)
 
 ![myImage](https://github.com/rumiani/rumiani/blob/main/pic-2.jpg)
 
