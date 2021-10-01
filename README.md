@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 # I'm Maziar Rumiani
 
 ## I'm a passionate Front End web developer who likes to work on open source projects.
