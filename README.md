@@ -15,7 +15,6 @@
 ![materianUI](https://img.icons8.com/color/48/000000/material-ui.png)
 ![css](https://img.icons8.com/color/48/000000/css3.png)
 ![html](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![wordpress](https://img.icons8.com/windows/32/000000/wordpress-simple.png)
 
 
 <!--
