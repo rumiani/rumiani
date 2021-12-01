@@ -1,7 +1,7 @@
 ### Hi there
 # I'm Maziar Rumiani
 
-## A passionate Front End web developer who likes to work on open source projects.
+## A passionate Front End web developer.
 
 ## [Here's my portfolio website.](rumiani.ir)
 
