@@ -1,7 +1,7 @@
 ### Hi there
 # I'm Maziar Rumiani
 
-## A passionate Front End web developer.
+## A passionate Clojure developer.
 
 ## [Here's my portfolio website.](rumiani.ir)
 
