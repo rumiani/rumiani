@@ -9,6 +9,9 @@
 
 ![myImage](https://github.com/rumiani/rumiani/blob/main/pic-2.jpg)
 
+![Twitter](https://img.shields.io/twitter/follow/rumianist?style=social)
+
+
 ![react](https://img.icons8.com/ios/50/000000/react-native--v2.png)
 ![javascript](https://img.icons8.com/color/50/000000/javascript--v2.png)
 ![typescript](https://img.icons8.com/color/48/000000/typescript.png)
