@@ -9,7 +9,7 @@
 
 ![myImage](https://github.com/rumiani/rumiani/blob/main/pic-2.jpg)
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rumianist?style=social">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frumianist">
 
 ![react](https://img.icons8.com/ios/50/000000/react-native--v2.png)
 ![javascript](https://img.icons8.com/color/50/000000/javascript--v2.png)
