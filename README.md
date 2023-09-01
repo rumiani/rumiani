@@ -1,6 +1,8 @@
 # About Me:
 Currently working on some full-stack JS projects<br>looking to collaborate on the backend or full-stack projects
+
 <be>
+
 ⚡ The bad thing about programming is that there's always something new to learn but, the good thing about programming is that there's always something new to learn.
 
 
